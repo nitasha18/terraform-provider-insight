@@ -16,7 +16,7 @@ resource "insight_item" "test" {
   name = "this_is_an_item"
   description = "this is an item"
   tags = [
-      "hello",
+      "helloo",
       "world"
   ]
 }
